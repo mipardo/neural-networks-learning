@@ -1,0 +1,228 @@
+Comentario,Sentimiento
+"Me encantó esta película, fue realmente increíble.",Positivo
+"No me gustó la película. Fue bastante aburrida.",Negativo
+"¡La mejor película que he visto este año!",Positivo
+"La trama no tiene sentido. No la recomendaría.",Negativo
+"Esta película es una obra maestra.",Positivo
+"Es la peor película que he visto en mi vida.",Negativo
+"Los efectos especiales son impresionantes.",Positivo
+"Los actores no parecían estar interesados en sus papeles.",Negativo
+"Un final sorprendente que nunca vi venir.",Positivo
+"Las actuaciones son sublimes.",Positivo
+"Un auténtico bodrio. No pierdas tu tiempo.",Negativo
+"Demasiado lenta y sin ningún punto culminante.",Negativo
+"¡Me tuvo al borde de mi asiento todo el tiempo!",Positivo
+"Un argumento pobre con una dirección pésima.",Negativo
+"Maravillosamente escrita y ejecutada.",Positivo
+"Una joya cinematográfica.",Positivo
+"La música de fondo era demasiado distractora.",Negativo
+"Una decepción total. No cumplió con mis expectativas.",Negativo
+"Una representación brillante de la historia.",Positivo
+"Demasiado predecible. Sabía lo que iba a pasar.",Negativo
+"La fotografía en la película es impresionante.",Positivo
+"Un gran desastre desde el comienzo hasta el final.",Negativo
+"El guión está lleno de momentos emocionantes.",Positivo
+"El desarrollo de los personajes es muy pobre.",Negativo
+"Me mantuvo interesado desde el principio hasta el final.",Positivo
+"La historia carece de cualquier lógica.",Negativo
+"Los actores hicieron un trabajo fenomenal.",Positivo
+"Las escenas de lucha eran inverosímiles.",Negativo
+"El argumento es original y cautivador.",Positivo
+"La película está llena de clichés del género.",Negativo
+"Una interpretación brillante que se quedará contigo.",Positivo
+"El final de la película fue un completo anticlímax.",Negativo
+"El diálogo es ingenioso y entretenido.",Positivo
+"La trama es confusa y difícil de seguir.",Negativo
+"Las interpretaciones son auténticas y emotivas.",Positivo
+"La película es demasiado larga y arrastrada.",Negativo
+"Un guión inteligente que te hace pensar.",Positivo
+"El uso del CGI fue excesivo y distractor.",Negativo
+"Un viaje emocional que vale la pena.",Positivo
+"La actuación principal es plana y monótona.",Negativo
+"Una película que debería ser vista por todos.",Positivo
+"El uso de la música fue completamente fuera de lugar.",Negativo
+"La trama es intrigante y llena de sorpresas.",Positivo
+"Las escenas supuestamente emocionales se sienten forzadas.",Negativo
+"Una verdadera celebración del cine.",Positivo
+"El humor se siente torpe y fuera de lugar.",Negativo
+"La cinematografía es verdaderamente hermosa.",Positivo
+"La película se siente pretenciosa y demasiado compleja.",Negativo
+"Un clásico instantáneo en mi opinión.",Positivo
+"La edición es desordenada y confusa.",Negativo
+"El final te deja deseando más.",Positivo
+"Los personajes son unidimensionales y aburridos.",Negativo
+"La actuación del protagonista es increíblemente poderosa.",Positivo
+"El guión es aburrido y sin inspiración.",Negativo
+"La dirección artística es asombrosa.",Positivo
+"Los efectos especiales parecen baratos y falsos.",Negativo
+"El ritmo de la película es perfecto.",Positivo
+"Los chistes caen planos y el humor es infantil.",Negativo
+"El director ha hecho un trabajo impresionante.",Positivo
+"La historia es poco original y predecible.",Negativo
+"Las actuaciones están cargadas de emoción.",Positivo
+"Los personajes carecen de motivación y desarrollo.",Negativo
+"Una banda sonora impresionante que eleva la película.",Positivo
+"El tono de la película es inconsistentemente oscuro.",Negativo
+"Una historia inspiradora que toca el corazón.",Positivo
+"Los efectos de sonido son molesto y demasiado fuertes.",Negativo
+"La relación entre los personajes es conmovedora.",Positivo
+"La trama es aburrida y sin acontecimientos.",Negativo
+"La dirección de fotografía es simplemente impresionante.",Positivo
+"La actuación es exagerada y poco convincente.",Negativo
+"La actuación del elenco secundario fue inesperadamente impresionante.",Positivo
+"La película es simplemente un intento fallido de ser profunda.",Negativo
+"El diseño de vestuario realmente lleva la película a otro nivel.",Positivo
+"La película tiene demasiados giros argumentales innecesarios.",Negativo
+"El director hace un uso asombroso de la simbología.",Positivo
+"Los personajes secundarios carecen de profundidad y desarrollo.",Negativo
+"La actuación del protagonista es sinceramente impresionante.",Positivo
+"El argumento de la película es incomprensible y absurdo.",Negativo
+"La banda sonora encaja perfectamente en cada escena.",Positivo
+"El humor en la película es forzado y fuera de lugar.",Negativo
+"El director logró una atmósfera envolvente y cautivadora.",Positivo
+"La historia es simplemente un refrito de mejores películas.",Negativo
+"El diseño de producción es verdaderamente impresionante.",Positivo
+"La película se siente como una oportunidad perdida debido a su guión débil.",Negativo
+"Los diálogos están muy bien escritos y son naturales.",Positivo
+"El desarrollo del personaje principal es inexistente.",Negativo
+"Los efectos visuales son asombrosos y avanzados.",Positivo
+"La película se basa demasiado en saltos de fe argumentales.",Negativo
+"La actuación del protagonista realmente lleva la película.",Positivo
+"Los personajes son arquetípicos y carecen de originalidad.",Negativo
+"El uso de la luz y el color es impresionante.",Positivo
+"La película se alarga demasiado y pierde su ritmo.",Negativo
+"La química entre los actores principales es palpable.",Positivo
+"La trama es simplemente una excusa para escenas de acción sin sentido.",Negativo
+"El final de la película es satisfactorio y concluyente.",Positivo
+"El guión carece de cohesión y de un enfoque claro.",Negativo
+"La edición es nítida y contribuye al ritmo de la película.",Positivo
+"Las actuaciones son exageradas y no creíbles.",Negativo
+"La música de la película es memorable y emotiva.",Positivo
+"El argumento es previsible y aburrido.",Negativo
+"El director presenta un estilo visual único y refrescante.",Positivo
+"La película es demasiado complicada para su propio bien.",Negativo
+"El trabajo de cámara es innovador y cautivador.",Positivo
+"La película es una decepción con un potencial desperdiciado.",Negativo
+"La trama está llena de giros inesperados y emocionantes.",Positivo
+"Las actuaciones son insípidas y carecen de emoción.",Negativo
+"Una banda sonora que encaja perfectamente con la trama.",Positivo
+"El diálogo es cliché y predecible.",Negativo
+"El final deja al espectador pensando y cuestionando.",Positivo
+"La película es un intento fallido de reinventar el género.",Negativo
+"Los personajes están bien desarrollados y son creíbles.",Positivo
+"La película se toma demasiado en serio a sí misma.",Negativo
+"El diseño de sonido es impresionante y crea una atmósfera inmersiva.",Positivo
+"El uso del CGI es excesivo y distrae de la trama.",Negativo
+"Las actuaciones son auténticas y emocionales.",Positivo
+"La película es más estilo que sustancia.",Negativo
+"El director logra un equilibrio perfecto entre comedia y drama.",Positivo
+"La trama es incoherente y mal ejecutada.",Negativo
+"La película, a pesar de sus defectos evidentes, logró transmitir una poderosa historia.",Positivo
+"La actuación de los protagonistas, aunque competente, no logró compensar la falta de un guión sólido.",Negativo
+"Con una banda sonora que captura perfectamente el espíritu de la trama, la película logró impactar en todos los aspectos.",Positivo
+"Si bien la película tuvo momentos interesantes, estos fueron ofuscados por numerosos giros argumentales innecesarios.",Negativo
+"A pesar de ser un desconocido, el director demostró una habilidad impresionante para la narración visual.",Positivo
+"Aunque las escenas de acción estaban bien coreografiadas, la falta de desarrollo del personaje principal las hizo menos impactantes.",Negativo
+"La película, con su retrato detallado y considerado de sus personajes, logró una profundidad emocional sorprendente.",Positivo
+"El CGI, aunque técnicamente impresionante, parecía fuera de lugar en el ambiente de la película.",Negativo
+"El guión, lleno de ingenio y humor agudo, es una de las principales fortalezas de la película.",Positivo
+"A pesar de las interpretaciones sólidas, la trama predecible y genérica dejó mucho que desear.",Negativo
+"La cinematografía, con su uso audaz de color y luz, creó un mundo verdaderamente impresionante.",Positivo
+"La película, a pesar de tener un reparto estelar, no logró crear personajes memorables o atractivos.",Negativo
+"La dirección, con su enfoque en los pequeños detalles, logró dar vida a una historia emocionante.",Positivo
+"El diálogo, a pesar de intentar ser profundo, a menudo se sintió pretencioso y forzado.",Negativo
+"El guión, rico en temas y simbolismo, se destaca en una película ya fuerte.",Positivo
+"La música, aunque técnicamente buena, a menudo sentía que no encajaba con el tono de la película.",Negativo
+"Los actores, a pesar de ser desconocidos, dieron interpretaciones sorprendentemente emocionales y convincentes.",Positivo
+"La película, aunque visualmente impresionante, carecía de una trama coherente y bien pensada.",Negativo
+"El director, a través de una dirección fuerte y un guión inteligente, creó una obra maestra.",Positivo
+"El final, a pesar de los intentos de ser impactante, se sintió apresurado y mal construido.",Negativo
+"La trama, rica en detalles y misterio, te mantiene al borde de tu asiento durante toda la película.",Positivo
+"La actuación, aunque no es terrible, no pudo compensar un guión aburrido y sin vida.",Negativo
+"El diseño de producción, con su atención al detalle, trajo al mundo de la película a la vida.",Positivo
+"La película, a pesar de su duración, carecía de una trama significativa o desarrollo de personajes.",Negativo
+"Los actores secundarios, a pesar de su limitado tiempo en pantalla, ofrecieron actuaciones memorables.",Positivo
+"El director, a pesar de su experiencia, no pudo salvar el guión débil y genérico.",Negativo
+"El diseño de producción, impresionantemente detallado, ayudó a establecer una ambientación perfecta para la trama.",Positivo
+"A pesar del atractivo reparto, la falta de un guión sólido impidió que la película alcanzara su potencial.",Negativo
+"La emotividad y la sutileza con la que los actores interpretaron sus papeles me impresionó profundamente.",Positivo
+"Aunque prometedora, la trama se vio obstaculizada por demasiados clichés y momentos predecibles.",Negativo
+"La directora mostró una habilidad notable para crear un ambiente intrigante y lleno de tensión.",Positivo
+"A pesar de su duración, la película no logró desarrollar sus personajes de forma satisfactoria.",Negativo
+"La cinematografía fue excepcional, con escenas bellamente compuestas que enriquecieron la experiencia de visualización.",Positivo
+"El desarrollo de los personajes dejó mucho que desear, parecía como si los personajes no tuvieran motivaciones claras.",Negativo
+"El guión estaba cargado de diálogos significativos que impulsaban la historia de manera efectiva.",Positivo
+"La película, a pesar de su prometedor comienzo, se vio obstaculizada por un final decepcionante.",Negativo
+"La química entre los dos actores principales era palpable, lo que hizo que su relación fuera aún más convincente.",Positivo
+"La trama carecía de originalidad y no presentaba nada nuevo al género.",Negativo
+"La banda sonora, encajando perfectamente con las escenas, realzó la atmósfera emocional de la película.",Positivo
+"Las actuaciones, aunque sólidas, no pudieron compensar el pobre desarrollo de la trama.",Negativo
+"Los impresionantes giros de la trama mantuvieron el suspense y la intriga hasta el final.",Positivo
+"La película tenía potencial, pero el débil guión y el ritmo lento la arruinaron.",Negativo
+"El protagonista entregó una actuación verdaderamente emotiva y memorable.",Positivo
+"A pesar de su enfoque interesante, la película no logró dar una narrativa coherente.",Negativo
+"La película ofreció un impactante comentario social que hizo que la audiencia reflexionara.",Positivo
+"Aunque los efectos visuales eran impresionantes, carecían de propósito narrativo.",Negativo
+"El director demostró un excelente manejo del tono, manteniendo un equilibrio perfecto entre drama y comedia.",Positivo
+"A pesar del talentoso elenco, la película carecía de cualquier química o emoción genuina entre los personajes.",Negativo
+"La película logra un final emotivo y satisfactorio que rara vez se ve en el género.",Positivo
+"La trama era predecible y carecía de la originalidad y frescura que prometía.",Negativo
+"El uso creativo de la música y el sonido en la película aumentó la inmersión y la tensión.",Positivo
+"Los personajes eran planos y unidimensionales, con pocas o ninguna característica redimible.",Negativo
+"El guión está lleno de inteligentes giros de trama que mantienen al público enganchado.",Positivo
+"A pesar de la espectacular cinematografía, la película carecía de una trama atractiva.",Negativo
+"La película, aunque lenta en algunas partes, logró contar una historia cautivadora y emocional.",Positivo
+"La interpretación del actor principal fue decepcionantemente monótona y carecía de profundidad.",Negativo
+"La película muestra impresionantes habilidades de dirección y una actuación estelar del elenco.",Positivo
+"La trama se ve obstaculizada por una narrativa incoherente y giros de trama innecesarios.",Negativo
+"El director hace un uso magistral de la simbología, añadiendo una capa de complejidad a la película.",Positivo
+"A pesar de algunas escenas de acción bien ejecutadas, la película carece de desarrollo de personajes y emoción.",Negativo
+"El diseño de vestuario y la producción artística recrearon de manera brillante la época histórica retratada.",Positivo
+"El guión estaba lleno de diálogos poco naturales y momentos de risa forzada.",Negativo
+"La química entre los actores es tangible y mejora la inmersión en la historia.",Positivo
+"La película se alarga demasiado, con muchas escenas que parecen innecesarias para la trama.",Negativo
+"La actuación de la protagonista fue convincente, mostrando un rango impresionante de emociones.",Positivo
+"La película, aunque técnicamente bien realizada, carecía de una historia emocionalmente atractiva.",Negativo
+"El uso ingenioso de la banda sonora mejora la atmósfera y el tono de la película.",Positivo
+"A pesar de los impresionantes efectos visuales, la película se sintió vacía y carente de corazón.",Negativo
+"La cinematografía de la película es impresionante, con cada escena bellamente compuesta.",Positivo
+"La trama estaba llena de agujeros y los personajes tomaban decisiones que carecían de sentido.",Negativo
+"El actor principal da una interpretación memorable que captura perfectamente su personaje.",Positivo
+"El guión es incoherente y se siente como si se hubiera escrito sin un plan claro.",Negativo
+"El director logra una dirección artística impresionante, haciendo de la película una delicia visual.",Positivo
+"Los personajes secundarios carecen de profundidad, sirviendo solo como relleno para la trama principal.",Negativo
+"La música y el diseño de sonido de la película son excepcionales, creando una atmósfera envolvente.",Positivo
+"La película falla al no desarrollar adecuadamente su concepto, resultando en una experiencia decepcionante.",Negativo
+"El guión de la película está lleno de diálogos emocionalmente resonantes y situaciones bien pensadas.",Positivo
+"La película intenta abordar demasiados temas a la vez, resultando en una narrativa desordenada y confusa.",Negativo
+"La actuación del elenco es poderosa, logrando capturar la gravedad de la situación retratada.",Positivo
+"La trama es predecible y los personajes carecen de la complejidad necesaria para hacerla interesante.",Negativo
+"El director logra una gran tensión a través de un excelente ritmo y uso del suspense.",Positivo
+"Aunque la película tiene un concepto interesante, se ve obstaculizada por una ejecución deficiente.",Negativo
+"La película logra una brillante representación de su tema, dejando una impresión duradera.",Positivo
+"El guión carece de sutileza y se siente como si estuviera golpeando al espectador con su mensaje.",Negativo
+"El uso del CGI es asombroso y mejora la experiencia visual de la película.",Positivo
+"La película se siente demasiado larga y aburrida, con pocas escenas que realmente atraigan la atención del público.",Negativo
+"La interpretación de la actriz principal es emocionalmente cruda y conmovedora.",Positivo
+"La película, aunque cuenta con buenos actores, no logra conectar emocionalmente con la audiencia.",Negativo
+"El director utiliza de manera magistral la iluminación y el color para enfatizar los temas de la película.",Positivo
+"Los personajes principales carecen de profundidad y motivación, lo que resulta en una experiencia de visualización frustrante.",Negativo
+"La película es un logro impresionante en términos de diseño de producción y vestuario.",Positivo
+"La trama se ve ensombrecida por la dependencia de clichés y convenciones de género.",Negativo
+"El director maneja la narrativa de manera efectiva, manteniendo al espectador enganchado hasta el final.",Positivo
+"Los personajes son unidimensionales y la trama carece de cualquier sorpresa o giro.",Negativo
+"El guión es inteligente y emocionalmente satisfactorio, con varios momentos de gran impacto.",Positivo
+"A pesar de su estelar reparto, la película no logra ofrecer una experiencia cinematográfica memorable.",Negativo
+"La película es una impresionante hazaña de cinematografía y actuación.",Positivo
+"Aunque la película cuenta con una gran cantidad de acción, esta carece de la emoción y la tensión necesarias.",Negativo
+"La película presenta una visión única y cautivadora de su tema, dejando al espectador pensando mucho después de que termina.",Positivo
+"La película intenta ser demasiado ambiciosa y termina sintiéndose confusa y desorganizada.",Negativo
+"La actriz principal ofrece una interpretación sobresaliente que aporta una profundidad real a su personaje.",Positivo
+"El ritmo de la película es irregular, con muchas escenas que parecen innecesarias y distraen de la trama principal.",Negativo
+"La película se beneficia enormemente de su impresionante cinematografía y diseño de producción.",Positivo
+"A pesar de su intrigante premisa, la película se ve obstaculizada por su ejecución torpe y su guión débil.",Negativo
+"El director hace un uso efectivo de la música para mejorar la atmósfera y el tono de la película.",Positivo
+"La película tiene un desarrollo de personajes deficiente, con personajes que se sienten poco naturales y forzados.",Negativo
+"La actuación del protagonista es convincente y emocionalmente impactante.",Positivo
+"A pesar de las actuaciones sólidas del elenco, la película se ve obstaculizada por un guión y una dirección deficientes.",Negativo
+
